@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color black
+color white
+drawable background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font amatic_sc
+id adress
+id button
+id fio
+id imageView
+id phone
+id textView2
+id textView4
+id textView5
+id textView7
+id textView8
+id textView9
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Image
+style Theme.Image
+xml backup_rules
+xml data_extraction_rules
